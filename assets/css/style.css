@@ -1,0 +1,90 @@
+* {
+    margin: 0%;
+    font-family: 'Raleway', sans-serif;
+}
+
+h1 {
+    background-color: #000000;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 55px;
+    padding: 2px 2px;
+}
+
+.iguana_grande {
+    background-image: url("/assets/imgs/bg-header.jpg");   
+    height: 900px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.descripcion_imagen {
+    background-color: #000000;
+    color: #FFFFFF;
+    padding: 50px 150px 50px 150px;
+}
+
+.descripcion {
+    display: inline-block;
+    width: 44%;
+    vertical-align: middle;
+    margin-right: 45px;
+}
+
+.descripcion p {
+    margin: 25px 25px;
+}
+
+.iguana_mediana {
+    display: inline-block;
+    width: 44%;
+    vertical-align: middle;
+    margin-left: 45px;
+}
+
+.iguana_mediana img {
+    width: 100%;
+}
+
+.caracteristicas {
+    background-color: #1E1A13;
+    color: #FFFFFF;
+    text-align: center;
+    padding: 50px;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+.icono {
+    display: inline-block;
+    font-size: 25px;
+    width: 33%;
+    margin-top: 40px;
+}
+
+.iguanas {
+    background-color: #000000;
+    padding: 60px 100px 60px 100px;
+}
+
+.iguanas img {
+    width: 31%;
+    height: 200px;
+    object-fit: cover;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+footer {
+    background-color: #1E1A13;
+    color: #FFFFFF;
+    font-size: 20px;
+    text-align: center;
+    padding: 30px 30px;
+}
+
+a {
+    cursor: pointer;
+}
